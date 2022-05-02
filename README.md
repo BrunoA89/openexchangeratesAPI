@@ -29,12 +29,19 @@ pip install python-dotenv
 
 ## Passos do Código
 ```
-### 1
+1º
 1.1 - Install all the instances you are importing in the virtual environment.
 1.2 - Import instances 
 ``` 
 ```
-### 2
+2º
 2.1 - Criando variáveis
 2.2 - selecting the requested currence
 ```
+```
+3º
+3.1 - Conect to url
+3.2 - get the result requested
+```
+
+
