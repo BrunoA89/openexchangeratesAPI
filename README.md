@@ -27,7 +27,7 @@ source venv/Script/activate
 pip install python-dotenv
 ```
 
-## Passos do Código
+## Code steps
 ```
 1º
 1.1 - Install all the instances you are importing in the virtual environment.
@@ -35,8 +35,8 @@ pip install python-dotenv
 ``` 
 ```
 2º
-2.1 - Criando variáveis
-2.2 - selecting the requested currence
+2.1 - Creating variables
+2.2 - Selecting the requested currence
 ```
 ```
 3º
@@ -45,5 +45,5 @@ pip install python-dotenv
 ```
 ```
 4º
-4.1 - Escolhendo o formato como Json
-4.2 - Convertendo formato da data
+4.1 - Choosing the Json format
+4.2 - Converting the data format
