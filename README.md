@@ -29,7 +29,7 @@ pip install python-dotenv
 
 ## Passos do Código
 ```
-_1_
+**1**
 1.1 - Install all the instances you are importing in the virtual environment.
 1.2 - Import instances 
 ``` 
