@@ -43,5 +43,7 @@ pip install python-dotenv
 3.1 - Conect to url
 3.2 - get the result requested
 ```
-
-
+```
+4º
+4.1 - Escolhendo o formato como Json
+4.2 - Convertendo formato da data
